@@ -1,0 +1,12 @@
+.DS_Store
+__MACOSX/
+__pycache__/
+*.pyc
+# raw source data (not redistributed)
+team_box.csv
+team_arena.csv
+# regenerated outputs
+experiment_predictions_reproduced.csv
+nba_teams_table.csv
+nba_training_table.csv
+nba_test_predictions.csv
