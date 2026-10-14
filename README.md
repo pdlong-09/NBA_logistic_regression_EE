@@ -131,6 +131,8 @@ The biggest lesson was about baselines. The 72.3% looks good until you compare i
   <img src="fig_model_compare.png" width="49%" alt="Logistic vs gradient-boosted trees">
 </p>
 
+> **About the Claude co-author:** Claude was used only to upload these files, which I had already written and stored locally, to GitHub, and to write this README and its supporting files (such as screenshots, `.gitignore` and `requirements.txt`). The code itself is my own work.
+
 ---
 
 <sub>Phạm Duy Long · Hà Nội · [phamduylong.com](https://phamduylong.com)</sub>
